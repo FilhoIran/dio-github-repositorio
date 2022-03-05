@@ -2,5 +2,5 @@
 Desafio do projeto sobre Git/GitHub
 
 
-## Links úteis:
+## Links úteis/auxiliares:
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
